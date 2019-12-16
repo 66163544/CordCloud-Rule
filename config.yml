@@ -16,8 +16,6 @@ Proxy:
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇷🇺 俄罗斯新西伯利亚(倍率:0.5), server: 103.136.186.106, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇷🇺 俄罗斯莫斯科(倍率:0.5), server: ru.mel.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇨🇳 北京BGP(倍率:1), server: 117.50.69.227, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇹🇼 台湾Hinet(倍率:0.9), server: tw.hinet.ccddns.online, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇹🇼 台湾Hinet11(倍率:0.9), server: tw.hinet11.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇹🇼 台湾Hinet12(倍率:0.9), server: tw.hinet12.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇹🇼 台湾Hinet15(倍率:0.9), server: tw.hinet15.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇹🇼 台湾Hinet2(倍率:0.9), server: tw.hinet2.ccddns.online, port: 12093}
@@ -38,6 +36,7 @@ Proxy:
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本AWS(倍率:0.5), server: jp.aws.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本AWS2(倍率:0.5), server: jp.aws2.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本CloudN(倍率:0.7), server: jp.cloudn.ccddns.online, port: 12093}
+  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本GMO(倍率:0.7), server: jp.gmo.m3lg534ff.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本GMO2(倍率:0.7), server: jp.gmo2.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本GMO3(倍率:0.7), server: jp.gmo3.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本GMO4(倍率:0.7), server: jp.gmo4.ccddns.online, port: 12093}
@@ -52,26 +51,19 @@ Proxy:
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本IDCF9(倍率:0.8), server: 210.152.84.93, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本M247(10Gbps)(倍率:0.7), server: 45.88.43.207, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本M2472(倍率:0.7), server: 193.38.139.157, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本M2473(倍率:0.7), server: 193.38.139.166, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本NTT(倍率:0.6), server: 139.162.68.47, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本Webarena(倍率:0.5), server: jp.webarena.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本Webarena2(倍率:0.5), server: jp.webarena2.ccddns.online, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本阿里云(倍率:0.8), server: jp.ali.wgmhd1.ccddns.online, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 日本阿里云3(倍率:0.8), server: jp.ali3.ccddns.online, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 沪日转日本GMO2(倍率:2), server: cnjp.iplc4.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇯🇵 沪日转日本M2472(倍率:2), server: cnjp.iplc3.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港专线转HGC(倍率:1.5), server: hk.iepl-hgc.ccddns.online, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港专线转HGC2(倍率:1.5), server: 183.61.251.106, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港专线转香港BGP(倍率:1.5), server: hk.iepl-bgp.ccddns.online, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港专线转香港BGP2(倍率:1.5), server: hk.iepl-bgp2.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港专线转香港BGP3(倍率:1.5), server: hk.iepl-bgp3.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港专线转香港HKT2(倍率:1.5), server: hk.iepl-hkt2.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港专线转香港icable(1Gbps)(倍率:1.5), server: hk.iepl-hkt.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港专线转香港WTT(倍率:1.5), server: hk.iepl-wtt.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港临时专线(请直接连接)(倍率:1.5), server: 183.61.251.119, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港转香港HKT(倍率:2), server: hk.iplc15.ccddns.online, port: 12093}
+  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港转HKTH打机神线(倍率:2), server: hk.iepl-hkte.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 深港转香港LS(倍率:1.5), server: 183.61.251.120, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 港深回国专线(倍率:2), server: cn.hkt-iepl.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国AWS(倍率:0.5), server: us.aws.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国AWS2(倍率:0.5), server: us.aws2.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国BGP(倍率:0.5), server: 38.147.165.10, port: 12093}
@@ -91,7 +83,7 @@ Proxy:
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国GF6(倍率:0.6), server: 134.73.55.81, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国GF7(倍率:0.6), server: 134.73.55.154, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国GF8(倍率:0.6), server: 104.223.143.27, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国GIA(倍率:0.8), server: 43.224.227.245, port: 12093}
+  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国GIA(倍率:0.8), server: 154.95.1.231, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国GIA11(倍率:0.8), server: 154.95.1.3, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国GIA12(倍率:0.8), server: 154.95.1.4, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国GIA13(倍率:0.8), server: 154.95.1.5, port: 12093}
@@ -127,9 +119,7 @@ Proxy:
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国QNC4(倍率:0.6), server: 173.254.223.61, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国QNC5(倍率:0.6), server: 173.254.223.62, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国QP(倍率:0.5), server: 185.206.21.82, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国QP2(倍率:0.5), server: 185.206.21.83, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国QP3(倍率:0.5), server: 185.206.21.84, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国QP4(倍率:0.5), server: 185.206.21.85, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国QP5(倍率:0.5), server: 185.206.21.86, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国VM(倍率:0.5), server: 107.175.17.143, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇺🇲 美国XS(倍率:0.4), server: 23.160.193.171, port: 12093}
@@ -162,7 +152,6 @@ Proxy:
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 香港HKTA打机神线(倍率:0.7), server: cchkta.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 香港HKTC打机神线(倍率:0.7), server: cchktc.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 香港HKTG打机神线(倍率:0.7), server: cchktg.hv662s.ccddns.online, port: 12093}
-  - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 香港HKTH打机神线(倍率:0.7), server: cchkth.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 香港icable(倍率:0.7), server: hk.icable.ccddns.online, port: 12093}
   - {type: ss, cipher: chacha20-ietf, plugin: obfs, plugin-opts: {mode: http, host: 888212692.HK2SCH130020629.wns.windows.com}, password: lLfsvq, name: 🇭🇰 香港阿里云5(倍率:1), server: hk.ali5.b66g3f.ccddns.online, port: 12093}
 Proxy Group:
@@ -211,15 +200,12 @@ Proxy Group:
     type: url-test
     proxies:
       - 🇭🇰 深港专线转HGC(倍率:1.5)
-      - 🇭🇰 深港专线转HGC2(倍率:1.5)
       - 🇭🇰 深港专线转香港BGP(倍率:1.5)
-      - 🇭🇰 深港专线转香港BGP2(倍率:1.5)
       - 🇭🇰 深港专线转香港BGP3(倍率:1.5)
       - 🇭🇰 深港专线转香港HKT2(倍率:1.5)
       - 🇭🇰 深港专线转香港icable(1Gbps)(倍率:1.5)
       - 🇭🇰 深港专线转香港WTT(倍率:1.5)
       - 🇭🇰 深港临时专线(请直接连接)(倍率:1.5)
-      - 🇭🇰 港深回国专线(倍率:2)
   - url: http://www.gstatic.com/generate_204
     interval: 300
     name: 🇭🇰 香港
@@ -245,7 +231,6 @@ Proxy Group:
       - 🇭🇰 香港HKTA打机神线(倍率:0.7)
       - 🇭🇰 香港HKTC打机神线(倍率:0.7)
       - 🇭🇰 香港HKTG打机神线(倍率:0.7)
-      - 🇭🇰 香港HKTH打机神线(倍率:0.7)
       - 🇭🇰 香港icable(倍率:0.7)
       - 🇭🇰 香港阿里云5(倍率:1)
   - url: http://www.gstatic.com/generate_204
@@ -253,8 +238,6 @@ Proxy Group:
     name: 🇹🇼 台湾
     type: url-test
     proxies:
-      - 🇹🇼 台湾Hinet(倍率:0.9)
-      - 🇹🇼 台湾Hinet11(倍率:0.9)
       - 🇹🇼 台湾Hinet12(倍率:0.9)
       - 🇹🇼 台湾Hinet15(倍率:0.9)
       - 🇹🇼 台湾Hinet2(倍率:0.9)
@@ -326,9 +309,7 @@ Proxy Group:
       - 🇺🇲 美国QNC4(倍率:0.6)
       - 🇺🇲 美国QNC5(倍率:0.6)
       - 🇺🇲 美国QP(倍率:0.5)
-      - 🇺🇲 美国QP2(倍率:0.5)
       - 🇺🇲 美国QP3(倍率:0.5)
-      - 🇺🇲 美国QP4(倍率:0.5)
       - 🇺🇲 美国QP5(倍率:0.5)
       - 🇺🇲 美国VM(倍率:0.5)
       - 🇺🇲 美国XS(倍率:0.4)
@@ -347,6 +328,7 @@ Proxy Group:
       - 🇯🇵 日本AWS(倍率:0.5)
       - 🇯🇵 日本AWS2(倍率:0.5)
       - 🇯🇵 日本CloudN(倍率:0.7)
+      - 🇯🇵 日本GMO(倍率:0.7)
       - 🇯🇵 日本GMO2(倍率:0.7)
       - 🇯🇵 日本GMO3(倍率:0.7)
       - 🇯🇵 日本GMO4(倍率:0.7)
@@ -361,12 +343,9 @@ Proxy Group:
       - 🇯🇵 日本IDCF9(倍率:0.8)
       - 🇯🇵 日本M247(10Gbps)(倍率:0.7)
       - 🇯🇵 日本M2472(倍率:0.7)
-      - 🇯🇵 日本M2473(倍率:0.7)
       - 🇯🇵 日本NTT(倍率:0.6)
       - 🇯🇵 日本Webarena(倍率:0.5)
       - 🇯🇵 日本Webarena2(倍率:0.5)
-      - 🇯🇵 日本阿里云(倍率:0.8)
-      - 🇯🇵 日本阿里云3(倍率:0.8)
   - url: http://www.gstatic.com/generate_204
     interval: 300
     name: 🇷🇺 俄罗斯
@@ -393,8 +372,6 @@ Proxy Group:
       - 🇷🇺 俄罗斯新西伯利亚(倍率:0.5)
       - 🇷🇺 俄罗斯莫斯科(倍率:0.5)
       - 🇨🇳 北京BGP(倍率:1)
-      - 🇹🇼 台湾Hinet(倍率:0.9)
-      - 🇹🇼 台湾Hinet11(倍率:0.9)
       - 🇹🇼 台湾Hinet12(倍率:0.9)
       - 🇹🇼 台湾Hinet15(倍率:0.9)
       - 🇹🇼 台湾Hinet2(倍率:0.9)
@@ -415,6 +392,7 @@ Proxy Group:
       - 🇯🇵 日本AWS(倍率:0.5)
       - 🇯🇵 日本AWS2(倍率:0.5)
       - 🇯🇵 日本CloudN(倍率:0.7)
+      - 🇯🇵 日本GMO(倍率:0.7)
       - 🇯🇵 日本GMO2(倍率:0.7)
       - 🇯🇵 日本GMO3(倍率:0.7)
       - 🇯🇵 日本GMO4(倍率:0.7)
@@ -429,26 +407,19 @@ Proxy Group:
       - 🇯🇵 日本IDCF9(倍率:0.8)
       - 🇯🇵 日本M247(10Gbps)(倍率:0.7)
       - 🇯🇵 日本M2472(倍率:0.7)
-      - 🇯🇵 日本M2473(倍率:0.7)
       - 🇯🇵 日本NTT(倍率:0.6)
       - 🇯🇵 日本Webarena(倍率:0.5)
       - 🇯🇵 日本Webarena2(倍率:0.5)
-      - 🇯🇵 日本阿里云(倍率:0.8)
-      - 🇯🇵 日本阿里云3(倍率:0.8)
-      - 🇯🇵 沪日转日本GMO2(倍率:2)
       - 🇯🇵 沪日转日本M2472(倍率:2)
       - 🇭🇰 深港专线转HGC(倍率:1.5)
-      - 🇭🇰 深港专线转HGC2(倍率:1.5)
       - 🇭🇰 深港专线转香港BGP(倍率:1.5)
-      - 🇭🇰 深港专线转香港BGP2(倍率:1.5)
       - 🇭🇰 深港专线转香港BGP3(倍率:1.5)
       - 🇭🇰 深港专线转香港HKT2(倍率:1.5)
       - 🇭🇰 深港专线转香港icable(1Gbps)(倍率:1.5)
       - 🇭🇰 深港专线转香港WTT(倍率:1.5)
       - 🇭🇰 深港临时专线(请直接连接)(倍率:1.5)
-      - 🇭🇰 深港转香港HKT(倍率:2)
+      - 🇭🇰 深港转HKTH打机神线(倍率:2)
       - 🇭🇰 深港转香港LS(倍率:1.5)
-      - 🇭🇰 港深回国专线(倍率:2)
       - 🇺🇲 美国AWS(倍率:0.5)
       - 🇺🇲 美国AWS2(倍率:0.5)
       - 🇺🇲 美国BGP(倍率:0.5)
@@ -504,9 +475,7 @@ Proxy Group:
       - 🇺🇲 美国QNC4(倍率:0.6)
       - 🇺🇲 美国QNC5(倍率:0.6)
       - 🇺🇲 美国QP(倍率:0.5)
-      - 🇺🇲 美国QP2(倍率:0.5)
       - 🇺🇲 美国QP3(倍率:0.5)
-      - 🇺🇲 美国QP4(倍率:0.5)
       - 🇺🇲 美国QP5(倍率:0.5)
       - 🇺🇲 美国VM(倍率:0.5)
       - 🇺🇲 美国XS(倍率:0.4)
@@ -539,7 +508,6 @@ Proxy Group:
       - 🇭🇰 香港HKTA打机神线(倍率:0.7)
       - 🇭🇰 香港HKTC打机神线(倍率:0.7)
       - 🇭🇰 香港HKTG打机神线(倍率:0.7)
-      - 🇭🇰 香港HKTH打机神线(倍率:0.7)
       - 🇭🇰 香港icable(倍率:0.7)
       - 🇭🇰 香港阿里云5(倍率:1)
 Rule:
