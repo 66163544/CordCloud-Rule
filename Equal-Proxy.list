@@ -3,6 +3,7 @@
 # 自定义代理列表
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-KEYWORD,cordcloud
+DOMAIN-SUFFIX,services.googleapis.cn
 
 
 # 控杆驱动程序
