@@ -4,21 +4,26 @@
 DOMAIN-SUFFIX,lastpass.com
 
 
-# 本地/局域网地址
-# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
-DOMAIN-SUFFIX,ip6-localhost
-DOMAIN-SUFFIX,ip6-loopback
-DOMAIN-SUFFIX,local
-DOMAIN-SUFFIX,localhost
-IP-CIDR,10.0.0.0/8
-IP-CIDR,100.64.0.0/10
-IP-CIDR,127.0.0.0/8
-IP-CIDR,172.16.0.0/12
-IP-CIDR,192.168.0.0/16
-IP-CIDR6,::1/128
-IP-CIDR6,fc00::/7
-IP-CIDR6,fe80::/10
-IP-CIDR6,fd00::/8
+# 局域网特殊应用
+# > 乐播投屏
+DOMAIN-SUFFIX,hpplay.cn
+# > mDNS CIDR
+IP-CIDR,224.0.0.251/24,no-resolve
+
+# >  TeamViewer CIDR
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,139.220.243.27/32,no-resolve
+IP-CIDR,172.16.102.56/32,no-resolve
+IP-CIDR,185.188.32.0/24,no-resolve
+IP-CIDR,185.188.33.0/24,no-resolve
+IP-CIDR,185.188.34.0/24,no-resolve
+IP-CIDR,185.188.35.0/24,no-resolve
+IP-CIDR,185.188.32.1/28,no-resolve
+IP-CIDR,221.226.128.146/32,no-resolve
+IP-CIDR6,2a0b:b580::/48,no-resolve
+IP-CIDR6,2a0b:b581::/48,no-resolve
+IP-CIDR6,2a0b:b582::/48,no-resolve
+IP-CIDR6,2a0b:b583::/48,no-resolve
 
 # Router managed 路由器管理域名
 DOMAIN-SUFFIX,hiwifi.com
