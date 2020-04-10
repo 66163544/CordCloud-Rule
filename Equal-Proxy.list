@@ -4,8 +4,11 @@
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-KEYWORD,cordcloud
 DOMAIN-SUFFIX,services.googleapis.cn
+
+# 设计类类
 DOMAIN-KEYWORD,behance
 DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,freepic.com
 
 # 控杆驱动程序
 DOMAIN-KEYWORD,jav101
