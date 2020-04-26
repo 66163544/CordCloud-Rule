@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,lastpass.com
 DOMAIN-SUFFIX,unsplash.com
 
 # 小米监控摄像头
+IP-CIDR,42.99.254.163,no-resolve
 IP-CIDR,42.99.254.162,no-resolve
 
 # 局域网特殊应用
