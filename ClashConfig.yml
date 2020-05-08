@@ -43,8 +43,8 @@ external-controller: '127.0.0.1:9090'
 # secret: ""
 
 # 实验性功能
-experimental:
-  ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
+#experimental:
+  #ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
   # interface-name: en0 # outbound interface name
 
 # 本地 SOCKS5 / HTTP(S) 服务认证
@@ -108,6 +108,22 @@ experimental:
 #   DoH: 以 https:// 开头的 DNS 服务器。拥有更好的伪装性，且几乎不可能被运营商或网络管理封锁，但查询效率和安全性可能略低。
 #   DoT: 以 tls:// 开头的 DNS 服务器。拥有更高的安全性和查询效率，但端口有可能被管制或封锁。
 #   若要了解更多关于 DoH/DoT 相关技术，请自行查阅规范文档。
+
+# 代理组
+# 下面这3个不要引到订阅里去 要不会出错
+# Will be ignored after profile selection
+proxies:
+  - name: Shadowsocks
+    type: socks5
+    server: 127.0.0.1
+    port: 1080
+proxy-groups:
+  - name: proxies
+    type: select
+    proxies:
+      - Shadowsocks
+rules:
+  - 'MATCH,DIRECT'
 
 # Clash for Windows
 # Proxies module latency test settings
