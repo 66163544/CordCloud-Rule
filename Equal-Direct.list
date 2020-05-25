@@ -2,7 +2,7 @@
 
 # 自定义直连列表
 DOMAIN-SUFFIX,lastpass.com
-DOMAIN-SUFFIX,*.douban.com
+DOMAIN-KEYWORD,douban
 
 # 局域网特殊应用
 # > 乐播投屏
