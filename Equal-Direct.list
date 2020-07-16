@@ -3,6 +3,7 @@
 # 自定义直连列表
 DOMAIN-SUFFIX,lastpass.com
 DOMAIN-KEYWORD,douban
+DOMAIN-KEYWORD,empgo
 
 # 局域网特殊应用
 # > 乐播投屏
