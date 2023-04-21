@@ -4,7 +4,7 @@
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-KEYWORD,cordcloud
 DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,openai.com
 
 # 设计类
 DOMAIN-KEYWORD,behance
