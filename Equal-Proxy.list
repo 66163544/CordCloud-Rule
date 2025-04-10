@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-KEYWORD,cordcloud
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,lsposed.org
+DOMAIN-KEYWORD,lsposed
 
 # 设计类
 DOMAIN-KEYWORD,behance
