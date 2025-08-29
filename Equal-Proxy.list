@@ -4,8 +4,12 @@
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-KEYWORD,cordcloud
 DOMAIN-SUFFIX,services.googleapis.cn
-DOMAIN-SUFFIX,openai.com
 DOMAIN-KEYWORD,lsposed
+
+# AI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,lmarena.ai
 
 # 设计类
 DOMAIN-KEYWORD,behance
