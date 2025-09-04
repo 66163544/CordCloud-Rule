@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-KEYWORD,cordcloud
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-KEYWORD,lsposed
+DOMAIN-KEYWORD,cloudflare
 
 # AI
 DOMAIN-SUFFIX,openai.com
