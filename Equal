@@ -1,0 +1,41 @@
+[custom]
+
+rename=倍率:@x
+rename=转@→
+rename=(\[)(M)(\])@
+rename=(\[)(Trojan)(\])@
+rename= @
+rename=商宽@
+
+custom_proxy_group=🔰 节点选择`select`[]🚀 专线`[]🇯🇵 日本`[]🇭🇰 香港`[]🇸🇬 新加坡`[]🇺🇸 美国`[]⚙️ 手动切换`
+custom_proxy_group=📺 国外媒体`select`[]🇭🇰 香港`[]🇯🇵 日本`[]🇹🇼 台湾`[]🇸🇬 新加坡`[]🇺🇸 美国`[]⚙️ 手动切换`
+custom_proxy_group=🐠 漏网之鱼`select`[]🔰 节点选择`[]🎯 全球直连`
+custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🔰 节点选择`
+custom_proxy_group=-------以下为各地区节点-------`select`[]REJECT`[]DIRECT`
+custom_proxy_group=🚀 专线`url-test`(.*专线(?!回国).*)`http://www.gstatic.com/generate_204`600,,50
+custom_proxy_group=🇯🇵 日本`url-test`(.*日本.*x(?!(1\.)|2).*)`http://www.gstatic.com/generate_204`600,,50
+custom_proxy_group=🇭🇰 香港`url-test`(.*香港.*x(?!(1\.)|2).*)`http://www.gstatic.com/generate_204`600,,50
+custom_proxy_group=🇹🇼 台湾`fallback`(.*台湾.*x(?!(1\.)|2).*)`http://www.gstatic.com/generate_204`900,,50
+custom_proxy_group=🇸🇬 新加坡`fallback`(.*新加坡.*x(?!(1\.)|2).*)`http://www.gstatic.com/generate_204`900,,50
+custom_proxy_group=🇺🇸 美国`fallback`(.*美国.*x(?!(1\.)|2).*)`http://www.gstatic.com/generate_204`900,,50
+;custom_proxy_group=🌎 其他手选`select`(德国|英国|俄罗斯|韩国|法国|阿根廷|荷兰).*
+;custom_proxy_group=⚙️ 专线手选`select`(.*专线(?!回国).*).*
+custom_proxy_group=⚙️ 手动切换`select`.*
+
+enable_rule_generator=true
+overwrite_original_rules=true
+
+ruleset=📺 国外媒体,https://raw.githubusercontent.com/66163544/ini/master/Equal-Proxy.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/66163544/ini/master/Equal-Direct.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/GoogleCN.list
+ruleset=📺 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
+ruleset=📺 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Telegram.list
+ruleset=-------以下为各地区节点-------,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+ruleset=-------以下为各地区节点-------,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+ruleset=🔰 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyLite.list
+ruleset=🎯 全球直连,[]GEOIP,CN
+ruleset=🐠 漏网之鱼,[]FINAL
