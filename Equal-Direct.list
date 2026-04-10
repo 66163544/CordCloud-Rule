@@ -2,10 +2,10 @@
 
 # 自定义直连列表
 DOMAIN-KEYWORD,douban
-DOMAIN-KEYWORD,empgo
+DOMAIN-SUFFIX,empgo.cn
+DOMAIN-SUFFIX,kaching.com.cn
 DOMAIN-KEYWORD,snapdrop
 DOMAIN,stun.l.google.com
-DOMAIN-SUFFIX,lastpass.com
 
 # 局域网特殊应用
 # > 乐播投屏
